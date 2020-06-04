@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Srum Board</string>
+    <string name="tab_text_1">TO DO</string>
+    <string name="tab_text_2">BUILD</string>
+    <string name="tab_text_3">TEST</string>
+    <string name="tab_text_4">DONE</string>
+</resources>
